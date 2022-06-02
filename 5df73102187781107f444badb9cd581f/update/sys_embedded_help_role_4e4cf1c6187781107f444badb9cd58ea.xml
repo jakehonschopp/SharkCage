@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_cdltd_shark_bait.cage_size_user" name="x_cdltd_shark_bait.cage_size_user">024cf1c6187781107f444badb9cd58e8</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-01 19:49:22</sys_created_on>
+        <sys_id>4e4cf1c6187781107f444badb9cd58ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>024cf1c6187781107f444badb9cd58e8</sys_name>
+        <sys_package display_value="Shark Bait Hoo-ha-ha" source="x_cdltd_shark_bait">5df73102187781107f444badb9cd581f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shark Bait Hoo-ha-ha">5df73102187781107f444badb9cd581f</sys_scope>
+        <sys_update_name>sys_embedded_help_role_4e4cf1c6187781107f444badb9cd58ea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-01 19:49:22</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

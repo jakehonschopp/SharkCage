@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Cage Maintenance" language="en" table="x_cdltd_shark_bait_cage_maintenance">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Cage Maintenance</label>
+            <language>en</language>
+            <name>x_cdltd_shark_bait_cage_maintenance</name>
+            <plural>Cage Maintenances</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-01 19:57:55</sys_created_on>
+            <sys_id>573ef54a187781107f444badb9cd5849</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Cage Maintenance</sys_name>
+            <sys_package display_value="Shark Bait Hoo-ha-ha" source="x_cdltd_shark_bait">5df73102187781107f444badb9cd581f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Shark Bait Hoo-ha-ha">5df73102187781107f444badb9cd581f</sys_scope>
+            <sys_update_name>sys_documentation_x_cdltd_shark_bait_cage_maintenance__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-01 19:57:55</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_cdltd_shark_bait_cage_maintenance</description>
+        <name>x_cdltd_shark_bait_cage_maintenance</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-01 19:57:55</sys_created_on>
+        <sys_id>d33ef54a187781107f444badb9cd581f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_shark_bait_cage_maintenance</sys_name>
+        <sys_package display_value="Shark Bait Hoo-ha-ha" source="x_cdltd_shark_bait">5df73102187781107f444badb9cd581f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shark Bait Hoo-ha-ha">5df73102187781107f444badb9cd581f</sys_scope>
+        <sys_update_name>sys_security_acl_d33ef54a187781107f444badb9cd581f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-01 19:57:55</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
